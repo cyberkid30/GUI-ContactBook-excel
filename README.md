@@ -1,12 +1,12 @@
 # GUI-ContactBook
-A GUI ContactBook made using PYTHON &amp; mySQL.
+An alternate version of GUI ContactBook made using PYTHON &amp; MS Excel.
 
 ![image](https://user-images.githubusercontent.com/81703042/192133152-60200547-2f1f-4bcd-9ff4-f1dbe156800c.png)
 
 **_GUI based ContactBook made using:_**  
  **-Python**  
  **-Tkinter Library (For GUI)**  
- **-mySQL (In Backend for Data Storage and Management)**  
+ **-Microsoft Excel (In Backend for Data Storage and Management)**  
 
  
 **_**Features of ContactBook:**_**
@@ -29,18 +29,10 @@ A GUI ContactBook made using PYTHON &amp; mySQL.
  _-Download all the files and especially the Dependencies Folder as all the image assests are located in the respective folder.   
  -Install requirements.txt file with ```pip install -r requirements.txt```.   
  -Don't delete the Test folder in ```Dependencies\User Data```._  
-
-
-
-```RandomiserForTest.py``` Usage:  
- _-This is file which can be used to test the ContactBook.  
- -It will basically add some default contacts to the profile you have selected.  
- -You can then edit thoose contacts and even delete it._  
  
  
  
--**Logged.txt** = _It contains the name of profile currently in use._  
--**sqlpass.txt** = _It contains mySQL password which is asked when the application is used for first time and python will seek password from the respective file everytime it runs._  
+-**Logged.txt** = _It contains the name of profile currently in use._   
 
 
 
