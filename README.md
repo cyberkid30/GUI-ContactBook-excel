@@ -27,7 +27,7 @@ An alternate version of GUI ContactBook made using PYTHON &amp; MS Excel.
 
 **Instructions**  
  _-Download all the files and especially the Dependencies Folder as all the image assests are located in the respective folder.   
- -Run '''requirements.py''' to install required modules   
+ -Run ```requirements.py``` to install required modules   
  -Don't delete the Test folder in ```Dependencies\User Data```._  
  
  
